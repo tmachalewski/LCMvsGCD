@@ -130,5 +130,6 @@ fig.update_layout(
         ),
     ]
 )
-fig.show()
+# fig.show()
+
 print(F"{A}, {B}, {C}")
